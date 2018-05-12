@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7613
     wikipedia: http://fi.wikipedia.org/wiki/Emil_Nervander
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45783#KatriKertomus-17-vuosi-sadasta--Finnish-
 gutenberg_issued: '2014-05-27'
 gutenberg_type: Text
 identifiers:
