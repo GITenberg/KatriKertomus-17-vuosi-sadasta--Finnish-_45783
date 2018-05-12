@@ -1,0 +1,28 @@
+_repo: KatriKertomus-17-vuosi-sadasta--Finnish-_45783
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nervander, Emil Fredrik
+    alias: Emlekyl
+    birthdate: 1840
+    deathdate: 1914
+    gutenberg_agent_id: '7613'
+    url: http://www.gutenberg.org/2009/agents/7613
+    wikipedia: http://fi.wikipedia.org/wiki/Emil_Nervander
+description: ''
+gutenberg_issued: '2014-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45783'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PH'
+title: 'Katri: Kertomus 17 vuosi-sadasta'
+url: http://www.gutenberg.org/ebooks/45783
